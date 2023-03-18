@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2zee7zMwR1zdUPywLQOFL7Bo0oLKACDgAVCBEMcJ43M=",
+  "Source": "emmaus_api",
+  "BasePath": "_content/emmaus_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

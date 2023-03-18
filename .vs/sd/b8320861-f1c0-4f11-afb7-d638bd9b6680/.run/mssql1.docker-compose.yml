@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  sqlserver-1:
+    image: "mcr.microsoft.com/mssql/server:2019-latest"
+    hostname: "sqlserver-1"
+    restart: always
+    ports: 
+        - 1433:1433
+    environment:
+      - ACCEPT_EULA="Y"
+      - SA_PASSWORD=f666dfa7-f719-4044-89f6-212b7c559fc3
